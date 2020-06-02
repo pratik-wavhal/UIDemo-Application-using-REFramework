@@ -1,0 +1,5 @@
+UIDemoPath = "G:\UIPath\REFramework\REFrameworkPractise_UIDemo\UIDemo.exe"
+
+UIDemoLogin = admin,password
+
+Business Exception will be (if Value1 > 1000)
